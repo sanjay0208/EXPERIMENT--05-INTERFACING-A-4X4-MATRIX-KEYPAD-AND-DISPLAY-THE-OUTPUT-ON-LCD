@@ -402,8 +402,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ~~~
 
-![image](https://github.com/sanjay0208/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119406959/c44e004c-d84c-489f-a09f-7224b09df22c)
-
 ## Output screen shots of proteus  :
  ![image (1)](https://github.com/sanjay0208/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119406959/c2d315c0-2ccd-4616-a852-f2bd67a093ac)
 
