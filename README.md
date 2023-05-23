@@ -276,7 +276,7 @@ int main(void)
    Lcd_HandleTypeDef lcd;
    lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
    Lcd_cursor(&lcd, 0,1);
-   Lcd_string(&lcd, "DEPT- CSE(IOT)");
+   Lcd_string(&lcd, "8");
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -284,8 +284,7 @@ int main(void)
   while (1)
   {
 	  Lcd_cursor(&lcd,1,1);
-	      	  	  Lcd_string(&lcd,"M SANJAY");
-    /* USER CODE END WHILE */
+	      	  	      /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
   }
@@ -401,13 +400,13 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
 ~~~
 
 ![image](https://github.com/sanjay0208/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119406959/c44e004c-d84c-489f-a09f-7224b09df22c)
 
 ## Output screen shots of proteus  :
- ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
+ ![image (1)](https://github.com/sanjay0208/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119406959/c2d315c0-2ccd-4616-a852-f2bd67a093ac)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
